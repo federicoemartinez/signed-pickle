@@ -1,3 +1,5 @@
+[![Python application](https://github.com/federicoemartinez/signed-pickle/actions/workflows/tests.yml/badge.svg?branch=main)](https://github.com/federicoemartinez/signed-pickle/actions/workflows/tests.yml)
+
 # signed-pickle
 
 Pickle is insecure: If you unpickle data from an untrusted source, you can
